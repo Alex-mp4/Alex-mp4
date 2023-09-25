@@ -10,5 +10,5 @@
 - **Figma and VSCode is also my bread and butter,** but they are comparatively fine.
 
 :ab: 
-- **You can contact me directly** in many places (placeholder).
+- **You can contact me directly** on [LinkedIn](https://www.linkedin.com/in/alexander-donev-heino-56ab13292/).
 - **Or, check out my portfolio:** [Link here!]()
