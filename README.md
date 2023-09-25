@@ -19,3 +19,5 @@
 
 #### Spotify
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=zip123zap)
+
+![](https://komarev.com/ghpvc/?username=Alex-mp4)
