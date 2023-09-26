@@ -11,7 +11,7 @@
 
 :ab: 
 - **You can contact me directly on [LinkedIn](https://www.linkedin.com/in/alexander-donev-heino-56ab13292/)**.
-- **Or, check out my [portfolio]().**
+- **Or, check out my [portfolio](https://alex-mp4.github.io/Alex-mp4/).**
 
 #### Spotify
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=zip123zap)

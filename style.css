@@ -110,12 +110,13 @@ img {
 
 ul {
     display: flex;
-    flex: wrap;
+    flex-wrap: wrap;
     list-style: none;
     padding: 0;
 }
 
 li {
+    width: fit-content;
     border-style: solid;
     border-width: 2px;
     border-radius: 10px;
@@ -125,7 +126,7 @@ li {
 
 @media screen and (max-width: 1000px) {
     h1 {
-        font-size: var(--space-2xl);
+        font-size: var(--space-xl);
     }
 
     h2 {
