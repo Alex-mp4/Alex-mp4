@@ -76,7 +76,7 @@ p {
     display: flex;
 }
 
-.container div {
+.container a {
     text-decoration: none;
     color: var(--secondary-color);
     background-color: var(--tertiary-color);
@@ -87,7 +87,7 @@ p {
     transition: all .2s ease-in-out;
 }
 
-.container div:hover {
+.container a:hover {
     transform: scale(0.95);
 }
 
@@ -137,8 +137,9 @@ li {
         display: block;
     }
 
-    .container div {
-        width: 80%;
+    .container a {
+        display: inline-block;
+        width: fit-content;
         margin-left: auto;
         margin-right: auto;
         margin-bottom: 2rem;
