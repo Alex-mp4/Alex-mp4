@@ -1,9 +1,5 @@
 ### Welcome to my profile! I go by Alex... but you can call me anytime. Wait, no, please don't leave!
 
-#### Alex-mp4 Statistics
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Alex-mp4/langs)](https://githubtrends.io) [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Alex-mp4/repos)](https://githubtrends.io)
-
-
 #### About Me
 :interrobang: 
 - **I am a student** from a moderately sized city in northern Sweden. 
