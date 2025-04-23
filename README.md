@@ -3,7 +3,7 @@
 #### About Me
 :interrobang: 
 - **I am a student** from a moderately sized city in northern Sweden. 
-- **Currently affiliated with NTI** and their fourth-year programme.
+- **Previously affiliated with NTI** and their fourth-year programme.
 
 :bangbang: 
 - **UI & UX design is my bread and butter.** That is, if the bread is moldy and the butter out-of-date.
